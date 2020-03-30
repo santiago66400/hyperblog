@@ -1,6 +1,18 @@
 body
 {
-    color: deeppink;
+    color: black;
 text-align: center;
 font-family:Arial, Helvetica, sans-serif ;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align:left ;
+    border:1px blanchedalmond #DDD;
+    margin: 0 auto;
+}
+#contaainer h1
+{
+    font-size: 20px;
 }
